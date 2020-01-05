@@ -1,6 +1,6 @@
 # TaxCalculator
-Calculates Federal, State, and Fica Taxes for a Single Filer \n
-- Built it for personal use
+##Calculates Federal, State, and Fica Taxes for a Single Filer \n
+### Built it for personal use
 
 How to Run
 * Install Node
