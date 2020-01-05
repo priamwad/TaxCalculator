@@ -1,5 +1,5 @@
 # TaxCalculator
-Calculates Federal, State, and Fica Taxes
+Calculates Federal, State, and Fica Taxes for a Single Filer
 
 How to Run
 * Install Node
@@ -18,11 +18,13 @@ Income After Taxes: $69490
 ------------------------------------------------------
 ```
 What has been implemented
-* Calculates Federal Income Tax for the 2019 brackets 
-* Calculates State Income Tax for the 2019 Nebraska brackets 
+* Calculates Federal Income Tax for the 2019 brackets for single filers
+* Calculates State Income Tax for the 2019 Nebraska brackets for single filers
 * Calculates the FICA Tax for 2019 year
 
 What needs to be implemented
 * Add more States and make the values for the bracket more dynamic
+* Implement one for Married filing jointly or qualifying widow/widowe
+* Implement one for Head of the family
 
 
