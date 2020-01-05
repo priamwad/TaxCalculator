@@ -1,4 +1,4 @@
-var income = 100000;
+var income = 60000;
 var federal_income_tax = FederalIncomeTax(income);
 var state_income_tax  = StateIncomeTax(income);
 var fica_tax = FicaTax(income);
