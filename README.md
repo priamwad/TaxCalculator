@@ -1,5 +1,5 @@
 # TaxCalculator
-** Calculates Federal, State, and Fica Taxes for a Single Filer **
+**Calculates Federal, State, and Fica Taxes for a Single Filer\**
 ** Built it for personal use**
 
 How to Run
