@@ -9,7 +9,7 @@ How to Run
   ii. change the values for your state's income tax bracket, default is Nebraska's State income tax.
 * run command: node tax.js
 ```
-Results for $60,000
+Results for $60,000 Income
 ------------------------------------------------------
 Federal Income tax: $9059
 State Income Tax: $2683
