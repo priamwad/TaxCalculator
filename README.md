@@ -5,16 +5,16 @@ How to Run
 * Install Node
 * Locate the file in the terminal
 * Use Text editor to alter the numbers as see fit, 
-  i. for example change the income from the default 100,000 to your income.
+  i. for example change the income from the default 60,000 to your income.
   ii. change the values for your state's income tax bracket, default is Nebraska's State income tax.
 * run command: node tax.js
 ```
-Result for income of 100,000
+Results for $60,000
 ------------------------------------------------------
-Federal Income tax: $18175
-State Income Tax: $4687
-Fica Tax:  $7650
-Income After Taxes: $69490
+Federal Income tax: $9059
+State Income Tax: $2683
+Fica Tax:  $4590
+Income After Taxes: $43670
 ------------------------------------------------------
 ```
 What has been implemented
