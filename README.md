@@ -19,7 +19,7 @@ Income After Taxes: $43670
 ------------------------------------------------------
 ```
 ## What has been implemented
-*[x] Calculates Federal Income Tax for the 2019 brackets for single filers
+* Calculates Federal Income Tax for the 2019 brackets for single filers
 * Calculates State Income Tax for the 2019 Nebraska brackets for single filers
 * Calculates the FICA Tax for 2019 year
 
