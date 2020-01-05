@@ -1,11 +1,11 @@
 # TaxCalculator
-Calculates Federal, State, and Fica Taxes for a Single Filer
+Calculates Federal, State, and Fica Taxes for a Single Filer \n
 -- Built it for personal use
 
 How to Run
 * Install Node
 * Locate the file in the terminal
-* Use Text editor to alter the numbers as see fit, 
+* Use Text editor to alter the numbers as see fit,\n 
   i. for example change the income from the default 60,000 to your income.
   ii. change the values for your state's income tax bracket, default is Nebraska's State income tax.
 * run command: node tax.js
