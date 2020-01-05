@@ -5,8 +5,8 @@ How to Run
 * Install Node
 * Locate the file in the terminal
 * Use Text editor to alter the numbers as see fit, 
- -> for example change the income from the default 100,000 to your income.
- -> change the values for your state's income tax bracket, default is Nebraska's State income tax.
+  i. for example change the income from the default 100,000 to your income.
+  ii. change the values for your state's income tax bracket, default is Nebraska's State income tax.
 * run command: node tax.js
 ```
 Result for income of 100,000
